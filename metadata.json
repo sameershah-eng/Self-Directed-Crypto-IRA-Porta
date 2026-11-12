@@ -1,0 +1,6 @@
+{
+  "name": "Northvault IRA - Self-Directed Crypto IRA Portal",
+  "description": "Retirement, held in digital assets. Institutional-grade custody, tax-advantaged Traditional, Roth, and SEP IRAs for digital assets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
